@@ -1,0 +1,36 @@
+{
+  "expo": {
+    "name": "Onetune+",
+    "description": "Onetune Plus",
+    "scheme": "onetuneplus",
+    "slug": "onetuneplus",
+    "privacy": "public",
+    "sdkVersion": "35.0.0",
+    "version": "0.0.1",
+    "platforms": ["android", "ios", "web"],
+    "githubUrl": "https://github.com/champ3oy/Onetune-Proto-type",
+    "orientation": "portrait",
+    "primaryColor": "#181414",
+    "icon": "src/assets/icon.png",
+    "splash": {
+      "image": "src/assets/splash.png",
+      "resizeMode": "contain"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": ["**/*"],
+    "android": {
+      "versionCode": 1
+    },
+    "ios": {
+      "buildNumber": "0.0.1",
+      "supportsTablet": true,
+      "infoPlist": {
+        "UIBackgroundModes": [
+          "audio"
+        ]
+      }
+    }
+  }
+}
