@@ -23,7 +23,7 @@ You then select a song and it will load in the play and simultaneously downloadi
 You can also create an account and upload songs to the service for free.
 
 ### Development
-I used my firebase credentials and i dont mind you using it.
+You need to register for a firebase account and start a new project.
 
 ### Contribution
 You can make contributions to this project.
