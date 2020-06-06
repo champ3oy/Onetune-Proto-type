@@ -24,6 +24,7 @@ You can also create an account and upload songs to the service for free.
 
 ### Development
 You need to register for a firebase account and start a new project.
+Past your account credentials in './SRC/Fire/firebase.js'
 
 ### Contribution
 You can make contributions to this project.
